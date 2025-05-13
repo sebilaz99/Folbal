@@ -1,0 +1,3 @@
+enum SpeedUnit {
+  kmh, mps
+}
